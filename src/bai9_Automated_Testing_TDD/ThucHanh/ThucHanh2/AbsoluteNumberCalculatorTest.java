@@ -1,3 +1,5 @@
+package bai9_Automated_Testing_TDD.ThucHanh.ThucHanh2;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
